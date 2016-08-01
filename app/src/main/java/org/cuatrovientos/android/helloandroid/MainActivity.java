@@ -3,6 +3,10 @@ package org.cuatrovientos.android.helloandroid;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+/**
+ * MainActivity of the Android Project
+ * @author Pello Altadill
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
